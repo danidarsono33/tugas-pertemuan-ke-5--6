@@ -69,15 +69,16 @@ Untuk Program mengisi nilai variabel tipe data teks (string) maka harus diapit d
 Tugas Lab1 :
 
 ![9](https://user-images.githubusercontent.com/73014427/98117530-7e90f680-1edc-11eb-964e-80274ee52646.png)
+![10](https://user-images.githubusercontent.com/73014427/98117893-f101d680-1edc-11eb-8b36-393e0bf1111a.png)
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
-![10](https://user-images.githubusercontent.com/73014427/98117893-f101d680-1edc-11eb-8b36-393e0bf1111a.png)
+![11](https://user-images.githubusercontent.com/73014427/98118029-24446580-1edd-11eb-9631-0fe9647c1b87.png)
 
 
 Tampilan setelah di Run module :
 
-![11](https://user-images.githubusercontent.com/73014427/98118029-24446580-1edd-11eb-9631-0fe9647c1b87.png)
+![12](https://user-images.githubusercontent.com/73014427/98118132-53f36d80-1edd-11eb-9433-fce8054de71c.png)
 
 
 -Untuk mengambil Input menggunakan fungsi input()
@@ -99,25 +100,25 @@ print(*objects, sep=' ', end='\n')
 03_Lab2_Konversi Nilai Variable
 Tugas Lab2 :
 
-![12](https://user-images.githubusercontent.com/73014427/98118132-53f36d80-1edd-11eb-9433-fce8054de71c.png)
+![13](https://user-images.githubusercontent.com/73014427/98118251-8ac98380-1edd-11eb-8cf6-5326b352749d.png)
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
-![13](https://user-images.githubusercontent.com/73014427/98118251-8ac98380-1edd-11eb-8cf6-5326b352749d.png)
+![14](https://user-images.githubusercontent.com/73014427/98118404-c1070300-1edd-11eb-9779-1cfd9cc2a2f7.png)
 
 Tampilan setelah di Run module :
 
-![14](https://user-images.githubusercontent.com/73014427/98118404-c1070300-1edd-11eb-9779-1cfd9cc2a2f7.png)
+![15](https://user-images.githubusercontent.com/73014427/98118536-f14ea180-1edd-11eb-9be3-d92437698c0e.png)
 
 Untuk program di atas setelah di run terjadi masalah : TypeError : %d format a number is required, not str.
 
-Karena Nilai a dan b yang kita inputkan bukan angka desimal,maka untuk code %d kita ganti tanda
+Karena Nilai a dan b yang kita inputkan bukan angka desimal,maka untuk code %d kita tambahkan int () pada performatan
+a=int(input("masukan variabel :a") dan pada performatan b=int(input("masukan variabel:b")
 
 
-Berikut kode program yang kita sudah rubah :
-! GAMBAR 15
+Berikut kode program yang kita sudah rubah 
 
-Tampilan setelah di Run module :
+Tampilan setelah di Run 
 
 !GAMBAR 16
 
