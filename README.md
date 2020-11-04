@@ -1,4 +1,4 @@
-#Latihan-Tugas 5 & 6
+# Latihan-Tugas 5 & 6
 
 BAHASA PEMROGRAMAN
 
@@ -120,7 +120,7 @@ Berikut kode program yang kita sudah rubah
 
 Tampilan setelah di Run 
 
-!GAMBAR 16
+![16](https://user-images.githubusercontent.com/73014427/98119457-36bf9e80-1edf-11eb-8c3b-bd0380106890.png)
 
 Program yang kita buat setelah di Run Outputnya sudah benar.
 
