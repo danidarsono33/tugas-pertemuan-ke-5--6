@@ -48,7 +48,8 @@ Tugas Latihan :
 
 Kita ketik perintah python :
 
-!GAMBAR 6
+![6](https://user-images.githubusercontent.com/73014427/98117131-daa74b00-1edb-11eb-81aa-db6d8416520f.png)
+
 
 Untuk menjalankan kode python, pilih menu Run -> Run Module, atau bisa juga tekan tombol F5
 
