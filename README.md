@@ -99,7 +99,7 @@ print(*objects, sep=' ', end='\n')
 03_Lab2_Konversi Nilai Variable
 Tugas Lab2 :
 
-!GAMBAR 12
+![12](https://user-images.githubusercontent.com/73014427/98118132-53f36d80-1edd-11eb-9433-fce8054de71c.png)
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
