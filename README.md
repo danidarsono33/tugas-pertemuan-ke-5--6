@@ -5,7 +5,7 @@ TEHNIK INFORMATIKA
 
 UNIVERSITAS PELITA BANGSA
 
-NAMA : GUNAWAN
+NAMA : DANI DARSONO
 
 NIM : 312010189
 
@@ -50,6 +50,7 @@ Kita ketik perintah python :
 !GAMBAR 6
 
 Untuk menjalankan kode python, pilih menu Run -> Run Module, atau bisa juga tekan tombol F5
+
 !GAMBAR 7
 
 Hasil dari file python ini akan tampil di jendela awal IDLE Python.
