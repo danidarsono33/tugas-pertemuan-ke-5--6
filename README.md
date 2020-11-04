@@ -103,7 +103,7 @@ Tugas Lab2 :
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
-! GAMBAR 13
+![13](https://user-images.githubusercontent.com/73014427/98118251-8ac98380-1edd-11eb-8cf6-5326b352749d.png)
 
 Tampilan setelah di Run module :
 
