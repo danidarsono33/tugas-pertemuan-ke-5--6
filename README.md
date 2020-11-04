@@ -27,7 +27,7 @@ Untuk membuat suatu file baru/ proyek python menggunakan PyCharm, pertama kita k
 
 Lalu klik “Create New Project” pada jendela PyCharm yang muncul.
 
-gambar 2
+![2](https://user-images.githubusercontent.com/73014427/98116491-ee05e680-1eda-11eb-8f2a-23731cf9faff.png)
 
 Atau bisa juga dilakukan melalui menu File-> New Project.
 
