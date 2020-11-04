@@ -53,7 +53,7 @@ Kita ketik perintah python :
 
 Untuk menjalankan kode python, pilih menu Run -> Run Module, atau bisa juga tekan tombol F5
 
-!GAMBAR 7
+![7](https://user-images.githubusercontent.com/73014427/98117327-26f28b00-1edc-11eb-9ce6-c041811a3443.png)
 
 Hasil dari file python ini akan tampil di jendela awal IDLE Python.
 
