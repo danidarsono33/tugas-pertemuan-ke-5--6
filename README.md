@@ -37,8 +37,7 @@ Setelah itu, kita akan diminta untuk mengisi nama proyeknya. Isi saja nama proye
 
 Selanjutnya, silahkan tambahkan file python dengan klik kanan pada direktori proyek, kemudian pilih New -> Python File.
 
-! GAMBAR 4
-
+![4](https://user-images.githubusercontent.com/73014427/98116516-f78f4e80-1eda-11eb-848c-0a2fc8fb6b11.png)
 
 
 01_Latihan1_input Biodata
