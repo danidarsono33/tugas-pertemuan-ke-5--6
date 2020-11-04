@@ -59,7 +59,7 @@ Hasil dari file python ini akan tampil di jendela awal IDLE Python.
 
 Tampilan setelah di Run module :
 
-!GAMBAR 8
+![8](https://user-images.githubusercontent.com/73014427/98117428-51dcdf00-1edc-11eb-87e4-b2793ea1af4c.png)
 
 Untuk Program mengisi nilai variabel tipe data teks (string) maka harus diapit dengan tanda petik ("...").
 
