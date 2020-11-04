@@ -1,4 +1,5 @@
-Latihan-Tugas 5 & 6
+#Latihan-Tugas 5 & 6
+
 BAHASA PEMROGRAMAN
 
 TEHNIK INFORMATIKA
@@ -21,7 +22,8 @@ Pengertian PyCharm adalah lingkungan pengembangan terintegrasi yang digunakan da
 
 Untuk membuat suatu file baru/ proyek python menggunakan PyCharm, pertama kita klik icon Pycharm
 
-gambar 1
+![1](https://user-images.githubusercontent.com/73014427/98116305-af702c00-1eda-11eb-97d6-09c93a3351f2.png)
+
 
 Lalu klik “Create New Project” pada jendela PyCharm yang muncul.
 
