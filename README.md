@@ -77,7 +77,8 @@ Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu K
 
 Tampilan setelah di Run module :
 
-! GAMBAR 11
+![11](https://user-images.githubusercontent.com/73014427/98118029-24446580-1edd-11eb-9631-0fe9647c1b87.png)
+
 
 -Untuk mengambil Input menggunakan fungsi input()
 
