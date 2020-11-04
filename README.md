@@ -51,11 +51,11 @@ Kita ketik perintah python :
 ![6](https://user-images.githubusercontent.com/73014427/98117131-daa74b00-1edb-11eb-81aa-db6d8416520f.png)
 
 
-Untuk menjalankan kode python, pilih menu Run -> Run Module, atau bisa juga tekan tombol F5
+Untuk menjalankan kode python, klik kanan pada file lalu pilih run atau bisa dengan ctrl+shift+f10
 
 ![7](https://user-images.githubusercontent.com/73014427/98117327-26f28b00-1edc-11eb-9ce6-c041811a3443.png)
 
-Hasil dari file python ini akan tampil di jendela awal IDLE Python.
+Hasil dari file python ini akan tampil
 
 Tampilan setelah di Run module :
 
@@ -68,7 +68,7 @@ Untuk Program mengisi nilai variabel tipe data teks (string) maka harus diapit d
 02_Lab1_Penggunaan end,separator & String format
 Tugas Lab1 :
 
-!GAMBAR 9
+![9](https://user-images.githubusercontent.com/73014427/98117530-7e90f680-1edc-11eb-964e-80274ee52646.png)
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
