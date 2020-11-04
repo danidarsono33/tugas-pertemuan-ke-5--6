@@ -107,7 +107,7 @@ Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu K
 
 Tampilan setelah di Run module :
 
-! GAMBAR 14
+![14](https://user-images.githubusercontent.com/73014427/98118404-c1070300-1edd-11eb-9779-1cfd9cc2a2f7.png)
 
 Untuk program di atas setelah di run terjadi masalah : TypeError : %d format a number is required, not str.
 
