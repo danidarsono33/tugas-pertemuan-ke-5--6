@@ -72,7 +72,8 @@ Tugas Lab1 :
 
 Kita buat New file > Simpan sesuai nama file ( Seperti tutorial diatas ), lalu Kita ketik kode perintah python :
 
-! GAMBAR 10
+![10](https://user-images.githubusercontent.com/73014427/98117893-f101d680-1edc-11eb-8b36-393e0bf1111a.png)
+
 
 Tampilan setelah di Run module :
 
