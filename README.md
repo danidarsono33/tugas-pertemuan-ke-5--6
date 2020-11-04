@@ -33,7 +33,7 @@ Atau bisa juga dilakukan melalui menu File-> New Project.
 
 Setelah itu, kita akan diminta untuk mengisi nama proyeknya. Isi saja nama proyeknya “BelajarPython”. Lalu tekan Create.
 
-!GAMBAR 3
+![3](https://user-images.githubusercontent.com/73014427/98116504-f3633100-1eda-11eb-95dc-20665648b437.png)
 
 Selanjutnya, silahkan tambahkan file python dengan klik kanan pada direktori proyek, kemudian pilih New -> Python File.
 
