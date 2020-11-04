@@ -43,7 +43,7 @@ Selanjutnya, silahkan tambahkan file python dengan klik kanan pada direktori pro
 01_Latihan1_input Biodata
 Tugas Latihan :
 
-!GAMBAR 5
+![5](https://user-images.githubusercontent.com/73014427/98116532-fbbb6c00-1eda-11eb-83cc-44fdfc6a87fa.png)
 
 
 Kita ketik perintah python :
